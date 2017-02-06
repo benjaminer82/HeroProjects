@@ -1,0 +1,218 @@
+# Webalizer V2.23-08 Incremental Data - 06/04/2016 00:36:31
+2016 6 4 0 36 31
+87 74 13 18 5 6 1733439 46 15 0
+1 1 22 1 4
+24 19 438918 3 14 4
+33 30 818541 5 12 2
+29 25 475693 5 19 8
+1 0 287 1 1 1
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+0 0 0 0 0 0
+1 0 287 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 6085 1
+65 58 1319799 35
+1 0 251 1
+1 1 6085 1
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+0 0 0 0
+1 1 6085 1
+2 0 1534 2
+1 1 6085 1
+12 11 380892 1
+0 0 0 0
+1 0 251 1
+0 0 0 0
+1 1 6085 1
+0
+0
+0
+74
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+10
+0
+3
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+0
+# -urls- 
+/css/font-awesome.min.css
+0 4 0 87948 0 0
+/fqa.html
+0 3 0 27111 0 0
+/js/vendor/wow-animate.js
+0 4 0 54616 0 0
+/css/wow-animate.css
+0 4 0 228380 0 0
+/js/vendor/bootstrap.min.js
+0 4 0 142404 0 0
+/about us.html
+0 3 0 24999 0 0
+/tobehero.html
+0 3 0 21648 0 0
+/program.html
+0 3 0 15372 0 0
+/captainc.html
+0 3 0 23613 0 1
+/js/main.js
+0 4 0 3832 0 0
+/css/bootstrap.min.css
+0 4 0 453992 0 0
+/css/site.css
+0 4 0 1488 0 0
+/
+0 13 0 79105 11 4
+/features.html
+0 3 0 17649 0 0
+/js/vendor/modernizr-2.6.2-respond-1.1.0.min.js
+0 4 0 77936 0 0
+/apply.html
+0 3 0 19323 0 0
+/js/vendor/jquery-1.11.1.min.js
+0 4 0 383144 0 0
+/css/templatemo-style.css
+0 4 0 62420 0 0
+# End Of Table - urls
+# -sites- (monthly)
+66.249.64.56
+0 7 7 296968 0 0
+-
+184.154.139.23
+0 20 18 431564 1 1464942161
+/program.html
+106.86.155.66
+0 1 0 287 1 1465000591
+-
+66.249.64.228
+0 3 3 77072 0 0
+-
+62.210.162.209
+0 1 0 767 1 1464771369
+-
+45.32.129.1
+0 1 1 6085 1 1464995185
+/
+23.234.1.114
+0 4 4 24340 4 1464978708
+/
+177.154.220.55
+0 2 2 12170 1 1464941278
+/
+66.249.64.61
+0 1 0 767 0 0
+-
+110.89.8.6
+0 2 0 502 2 1464817896
+/
+66.249.64.233
+0 1 1 6085 1 1464896965
+/
+37.1.206.71
+0 2 0 1534 1 1464976093
+-
+184.154.36.163
+0 42 38 875298 2 1464855692
+/about us.html
+# End Of Table - sites (monthly)
+# -sites- (daily)
+106.86.155.66
+0 1 0 287 1 1465000591
+-
+# End Of Table - sites (daily)
+# -referrers- 
+http://www.heroprojects.org/
+1 10
+http://www.google.com/url
+1 14
+http://www.heroprojects.org/license.php
+1 1
+- (Direct Request)
+0 61
+http://www.heroprojects.org/images/swfupload/images/uploadye.php
+1 1
+Google
+2 14
+# End Of Table - referrers
+# -agents- 
+Mozilla/5.0
+0 8
+Netscape 6 compatible
+2 8
+SiteLockSpider [en] (WinNT; I ;Nav)
+0 48
+G
+0 11
+}__test|O:21:\"JDatabaseDriverMysqli\":3:{s:2:\"fc\";O:17:\"JSimplepieFactory\":0:{}s:21:\"\\0\\0\\0disconnectHandlers\";a:1:
+0 2
+MSIE 9.0
+0 15
+Googlebot/2.1
+0 1
+# End Of Table - agents
+# -search strings- 
+# End Of Table - search strings
+# -usernames- 
+# End Of Table - usernames
